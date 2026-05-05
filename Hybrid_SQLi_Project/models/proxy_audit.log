@@ -1,0 +1,46 @@
+2025-11-07 10:23:15,503 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.236.21:5000
+2025-11-07 10:23:15,504 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-07 10:30:05,406 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.236.21:5000
+2025-11-07 10:30:05,408 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-07 10:30:37,795 [INFO] 127.0.0.1 - - [07/Nov/2025 10:30:37] "GET / HTTP/1.1" 200 -
+2025-11-07 10:30:45,959 [INFO] 127.0.0.1 - - [07/Nov/2025 10:30:45] "[33mPOST /detect HTTP/1.1[0m" 404 -
+2025-11-07 10:33:27,365 [INFO] 127.0.0.1 - - [07/Nov/2025 10:33:27] "GET / HTTP/1.1" 200 -
+2025-11-07 10:33:31,221 [INFO] 127.0.0.1 - - [07/Nov/2025 10:33:31] "[33mPOST /detect HTTP/1.1[0m" 404 -
+2025-11-07 10:33:34,201 [INFO] 127.0.0.1 - - [07/Nov/2025 10:33:34] "GET /?query=alice HTTP/1.1" 200 -
+2025-11-07 10:33:38,903 [INFO] 127.0.0.1 - - [07/Nov/2025 10:33:38] "GET /?query=alice HTTP/1.1" 200 -
+2025-11-07 10:33:51,990 [INFO] 127.0.0.1 - - [07/Nov/2025 10:33:51] "GET /?query='+OR+'1'%3D'1 HTTP/1.1" 200 -
+2025-11-07 10:34:25,909 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.236.21:5000
+2025-11-07 10:34:25,909 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-07 10:37:51,443 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.236.21:5000
+2025-11-07 10:37:51,443 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-07 10:42:15,629 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.236.21:5000
+2025-11-07 10:42:15,629 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-07 10:44:15,102 [INFO] 127.0.0.1 - - [07/Nov/2025 10:44:15] "GET / HTTP/1.1" 200 -
+2025-11-07 10:44:32,486 [INFO] 127.0.0.1 - - [07/Nov/2025 10:44:32] "GET / HTTP/1.1" 200 -
+2025-11-07 10:44:37,737 [INFO] 127.0.0.1 - - [07/Nov/2025 10:44:37] "GET /?query=alice HTTP/1.1" 200 -
+2025-11-07 10:53:25,755 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.236.21:5000
+2025-11-07 10:53:25,755 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-07 10:53:43,439 [INFO] Blocked input by detector: ' OR '1'='1 -> {'anomaly_score': 0.3912, 'decision': 'block', 'final_score': 0.8173, 'ml_prob': 1.0}
+2025-11-07 10:53:43,453 [INFO] 127.0.0.1 - - [07/Nov/2025 10:53:43] "[31m[1mPOST / HTTP/1.1[0m" 403 -
+2025-11-07 10:54:39,190 [INFO] 127.0.0.1 - - [07/Nov/2025 10:54:39] "GET / HTTP/1.1" 200 -
+2025-11-07 10:55:06,921 [INFO] 127.0.0.1 - - [07/Nov/2025 10:55:06] "GET / HTTP/1.1" 200 -
+2025-11-07 10:55:19,221 [INFO] 127.0.0.1 - - [07/Nov/2025 10:55:19] "GET /?query='+OR+'1'%3D'1 HTTP/1.1" 200 -
+2025-11-07 10:55:25,440 [INFO] 127.0.0.1 - - [07/Nov/2025 10:55:25] "GET /?query='+OR+'1'%3D'1 HTTP/1.1" 200 -

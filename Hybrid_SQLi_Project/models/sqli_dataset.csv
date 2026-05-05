@@ -1,0 +1,501 @@
+query,label
+admin'--,1
+admin'--,1
+' OR 'x'='x'; --,1
+1 OR 1=1,1
+' OR '1'='1,1
+' OR 'x'='x'; --,1
+' OR 'x'='x'; --,1
+1 OR 1=1,1
+'; EXEC xp_cmdshell('dir'); --,1
+1 OR 1=1,1
+admin'--,1
+UNION SELECT password FROM users,1
+'; EXEC xp_cmdshell('dir'); --,1
+admin'--,1
+'; DROP TABLE users; --,1
+'; DROP TABLE users; --,1
+' OR 'x'='x'; --,1
+'; EXEC xp_cmdshell('dir'); --,1
+'; DROP TABLE users; --,1
+admin'--,1
+'; EXEC xp_cmdshell('dir'); --,1
+1 OR 1=1,1
+'; EXEC xp_cmdshell('dir'); --,1
+UNION SELECT password FROM users,1
+'; EXEC xp_cmdshell('dir'); --,1
+admin'--,1
+admin'--,1
+'; DROP TABLE users; --,1
+'; DROP TABLE users; --,1
+' OR 'x'='x'; --,1
+' OR '1'='1,1
+'; DROP TABLE users; --,1
+' OR '1'='1,1
+' OR 'x'='x'; --,1
+""" OR 1=1 --",1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+'; DROP TABLE users; --,1
+admin'--,1
+UNION SELECT password FROM users,1
+admin'--,1
+""" OR 1=1 --",1
+1 OR 1=1,1
+admin'--,1
+' OR '1'='1,1
+'; DROP TABLE users; --,1
+'; EXEC xp_cmdshell('dir'); --,1
+admin'--,1
+'; EXEC xp_cmdshell('dir'); --,1
+' OR 'x'='x'; --,1
+1 OR 1=1,1
+1 OR 1=1,1
+'; DROP TABLE users; --,1
+UNION SELECT password FROM users,1
+1 OR 1=1,1
+' OR 'x'='x'; --,1
+' OR '1'='1,1
+' OR '1'='1,1
+1 OR 1=1,1
+UNION SELECT password FROM users,1
+'; EXEC xp_cmdshell('dir'); --,1
+admin'--,1
+""" OR 1=1 --",1
+' OR '1'='1,1
+' OR '1'='1,1
+' OR '1'='1,1
+""" OR 1=1 --",1
+1 OR 1=1,1
+1 OR 1=1,1
+1 OR 1=1,1
+'; EXEC xp_cmdshell('dir'); --,1
+'; DROP TABLE users; --,1
+'; DROP TABLE users; --,1
+1 OR 1=1,1
+""" OR 1=1 --",1
+""" OR 1=1 --",1
+'; DROP TABLE users; --,1
+""" OR 1=1 --",1
+'; DROP TABLE users; --,1
+UNION SELECT password FROM users,1
+1 OR 1=1,1
+' OR 'x'='x'; --,1
+""" OR 1=1 --",1
+' OR '1'='1,1
+' OR '1'='1,1
+""" OR 1=1 --",1
+1 OR 1=1,1
+admin'--,1
+admin'--,1
+' OR '1'='1,1
+' OR '1'='1,1
+admin'--,1
+' OR 'x'='x'; --,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+'; DROP TABLE users; --,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+'; DROP TABLE users; --,1
+admin'--,1
+1 OR 1=1,1
+' OR 'x'='x'; --,1
+'; EXEC xp_cmdshell('dir'); --,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+""" OR 1=1 --",1
+admin'--,1
+' OR 'x'='x'; --,1
+""" OR 1=1 --",1
+'; DROP TABLE users; --,1
+'; EXEC xp_cmdshell('dir'); --,1
+'; EXEC xp_cmdshell('dir'); --,1
+1 OR 1=1,1
+' OR '1'='1,1
+' OR '1'='1,1
+' OR '1'='1,1
+admin'--,1
+""" OR 1=1 --",1
+'; DROP TABLE users; --,1
+admin'--,1
+""" OR 1=1 --",1
+1 OR 1=1,1
+""" OR 1=1 --",1
+'; DROP TABLE users; --,1
+' OR 'x'='x'; --,1
+' OR 'x'='x'; --,1
+admin'--,1
+' OR '1'='1,1
+' OR 'x'='x'; --,1
+1 OR 1=1,1
+'; EXEC xp_cmdshell('dir'); --,1
+admin'--,1
+'; EXEC xp_cmdshell('dir'); --,1
+' OR '1'='1,1
+' OR 'x'='x'; --,1
+admin'--,1
+' OR 'x'='x'; --,1
+'; EXEC xp_cmdshell('dir'); --,1
+' OR 'x'='x'; --,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+1 OR 1=1,1
+' OR '1'='1,1
+' OR 'x'='x'; --,1
+admin'--,1
+UNION SELECT password FROM users,1
+'; EXEC xp_cmdshell('dir'); --,1
+1 OR 1=1,1
+'; DROP TABLE users; --,1
+1 OR 1=1,1
+' OR '1'='1,1
+' OR 'x'='x'; --,1
+'; EXEC xp_cmdshell('dir'); --,1
+' OR '1'='1,1
+'; DROP TABLE users; --,1
+admin'--,1
+""" OR 1=1 --",1
+' OR '1'='1,1
+""" OR 1=1 --",1
+' OR 'x'='x'; --,1
+admin'--,1
+""" OR 1=1 --",1
+admin'--,1
+'; EXEC xp_cmdshell('dir'); --,1
+' OR 'x'='x'; --,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+' OR 'x'='x'; --,1
+admin'--,1
+'; EXEC xp_cmdshell('dir'); --,1
+'; DROP TABLE users; --,1
+'; DROP TABLE users; --,1
+admin'--,1
+UNION SELECT password FROM users,1
+UNION SELECT password FROM users,1
+""" OR 1=1 --",1
+admin'--,1
+1 OR 1=1,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+' OR 'x'='x'; --,1
+1 OR 1=1,1
+' OR '1'='1,1
+' OR '1'='1,1
+'; EXEC xp_cmdshell('dir'); --,1
+UNION SELECT password FROM users,1
+1 OR 1=1,1
+UNION SELECT password FROM users,1
+admin'--,1
+' OR '1'='1,1
+' OR 'x'='x'; --,1
+'; DROP TABLE users; --,1
+'; DROP TABLE users; --,1
+1 OR 1=1,1
+' OR 'x'='x'; --,1
+' OR 'x'='x'; --,1
+admin'--,1
+UNION SELECT password FROM users,1
+' OR '1'='1,1
+admin'--,1
+' OR '1'='1,1
+""" OR 1=1 --",1
+""" OR 1=1 --",1
+1 OR 1=1,1
+' OR 'x'='x'; --,1
+UNION SELECT password FROM users,1
+""" OR 1=1 --",1
+'; EXEC xp_cmdshell('dir'); --,1
+' OR '1'='1,1
+'; EXEC xp_cmdshell('dir'); --,1
+' OR '1'='1,1
+' OR '1'='1,1
+admin'--,1
+'; DROP TABLE users; --,1
+'; EXEC xp_cmdshell('dir'); --,1
+UNION SELECT password FROM users,1
+1 OR 1=1,1
+admin'--,1
+""" OR 1=1 --",1
+'; EXEC xp_cmdshell('dir'); --,1
+1 OR 1=1,1
+admin'--,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+1 OR 1=1,1
+' OR 'x'='x'; --,1
+admin'--,1
+UNION SELECT password FROM users,1
+'; DROP TABLE users; --,1
+admin'--,1
+' OR '1'='1,1
+UNION SELECT password FROM users,1
+' OR 'x'='x'; --,1
+'; DROP TABLE users; --,1
+' OR 'x'='x'; --,1
+' OR 'x'='x'; --,1
+1 OR 1=1,1
+1 OR 1=1,1
+'; DROP TABLE users; --,1
+""" OR 1=1 --",1
+""" OR 1=1 --",1
+' OR 'x'='x'; --,1
+'; DROP TABLE users; --,1
+admin'--,1
+admin'--,1
+' OR 'x'='x'; --,1
+admin'--,1
+'; EXEC xp_cmdshell('dir'); --,1
+email@example.com,0
+feedback message,0
+john123,0
+contact form,0
+email@example.com,0
+search product,0
+contact form,0
+feedback message,0
+john123,0
+login,0
+john123,0
+feedback message,0
+order details,0
+order details,0
+feedback message,0
+user registration,0
+john123,0
+user registration,0
+user registration,0
+login,0
+login,0
+contact form,0
+user registration,0
+feedback message,0
+login,0
+search product,0
+contact form,0
+feedback message,0
+user registration,0
+user registration,0
+john123,0
+login,0
+john123,0
+email@example.com,0
+user registration,0
+contact form,0
+search product,0
+search product,0
+user registration,0
+user registration,0
+login,0
+email@example.com,0
+john123,0
+feedback message,0
+search product,0
+feedback message,0
+login,0
+feedback message,0
+user registration,0
+order details,0
+user registration,0
+feedback message,0
+contact form,0
+order details,0
+order details,0
+user registration,0
+feedback message,0
+user registration,0
+search product,0
+email@example.com,0
+john123,0
+order details,0
+search product,0
+john123,0
+login,0
+user registration,0
+search product,0
+user registration,0
+email@example.com,0
+user registration,0
+search product,0
+contact form,0
+email@example.com,0
+login,0
+order details,0
+email@example.com,0
+order details,0
+john123,0
+email@example.com,0
+contact form,0
+login,0
+login,0
+feedback message,0
+user registration,0
+contact form,0
+john123,0
+john123,0
+user registration,0
+search product,0
+login,0
+contact form,0
+contact form,0
+order details,0
+user registration,0
+feedback message,0
+login,0
+order details,0
+user registration,0
+login,0
+john123,0
+search product,0
+email@example.com,0
+john123,0
+contact form,0
+order details,0
+email@example.com,0
+user registration,0
+search product,0
+search product,0
+user registration,0
+order details,0
+user registration,0
+user registration,0
+feedback message,0
+email@example.com,0
+login,0
+order details,0
+login,0
+contact form,0
+contact form,0
+john123,0
+login,0
+email@example.com,0
+email@example.com,0
+contact form,0
+email@example.com,0
+order details,0
+user registration,0
+search product,0
+search product,0
+feedback message,0
+email@example.com,0
+john123,0
+email@example.com,0
+user registration,0
+contact form,0
+login,0
+search product,0
+john123,0
+john123,0
+email@example.com,0
+john123,0
+search product,0
+email@example.com,0
+john123,0
+login,0
+john123,0
+user registration,0
+user registration,0
+contact form,0
+email@example.com,0
+email@example.com,0
+login,0
+search product,0
+search product,0
+email@example.com,0
+email@example.com,0
+contact form,0
+john123,0
+contact form,0
+order details,0
+email@example.com,0
+john123,0
+feedback message,0
+email@example.com,0
+order details,0
+search product,0
+john123,0
+contact form,0
+email@example.com,0
+john123,0
+order details,0
+user registration,0
+login,0
+login,0
+feedback message,0
+login,0
+order details,0
+user registration,0
+feedback message,0
+user registration,0
+login,0
+feedback message,0
+order details,0
+user registration,0
+login,0
+user registration,0
+order details,0
+search product,0
+contact form,0
+john123,0
+login,0
+email@example.com,0
+email@example.com,0
+contact form,0
+john123,0
+order details,0
+user registration,0
+email@example.com,0
+user registration,0
+order details,0
+feedback message,0
+feedback message,0
+login,0
+user registration,0
+order details,0
+search product,0
+email@example.com,0
+email@example.com,0
+email@example.com,0
+john123,0
+contact form,0
+john123,0
+search product,0
+email@example.com,0
+john123,0
+order details,0
+john123,0
+contact form,0
+order details,0
+feedback message,0
+search product,0
+feedback message,0
+login,0
+search product,0
+email@example.com,0
+john123,0
+order details,0
+john123,0
+order details,0
+order details,0
+email@example.com,0
+email@example.com,0
+user registration,0
+search product,0
+login,0
+contact form,0
+user registration,0
+search product,0
+login,0
+email@example.com,0
+order details,0
+login,0
+order details,0
+feedback message,0
+login,0
+email@example.com,0
+contact form,0
+user registration,0
+contact form,0
